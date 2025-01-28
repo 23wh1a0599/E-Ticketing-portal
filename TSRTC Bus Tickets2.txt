@@ -1,0 +1,47 @@
+                                               TSRTC Bus Tickets
+
+
+
+Overview
+
+
+A web application for booking bus tickets and checking the availability of
+buses for travel within Telangana. This simple yet functional project allows
+users to input their current location, destination city, and travel date to view
+available buses. Users can then proceed to book tickets conveniently.When
+the user tries to book more than 1 bus then the page will show him the
+message saying that the user had already booked the bus.
+
+
+
+ Highlights
+
+
+ • User-friendly interface with a responsive design using Bootstrap.
+ • Allows users to input:– Current location– Destination city– Travel date
+ • Displays a list of available buses with:– Bus ID– Departure time– Seats available
+ • Ticket booking functionality with a restriction to prevent multiple
+ bookings per user.
+ • Real-time feedback for missing or incomplete input fields
+
+
+Technologies Used
+
+
+• HTML5: Structuring the web page.
+• CSS3: Adding styles for a visually appealing design.
+• Bootstrap: Ensuring responsiveness and faster UI development.
+• JavaScript: Adding interactive functionality.
+
+
+
+How to Use
+
+
+1. Input your:
+• Current location
+• Destination city
+• Travel date (in DD/MM/YYYY format)
+2. Click ”Check Buses” to view available options.
+3. Click ”Book Ticket” to confirm your booking (restricted to one book-
+ing per session).
